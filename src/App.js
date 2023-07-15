@@ -1,5 +1,5 @@
 import "./App.css";
-import AnalogClock from "./components/analogClock";
+import AnalogClock from "./components/AnalogClock";
 
 function App() {
   return (
